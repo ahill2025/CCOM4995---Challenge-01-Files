@@ -12,7 +12,8 @@ Position your ‘Simple House’ coordinates to the following:
   - x = 0
   - y = 0
   - z = 0
-  - 
+
+
 These coordinates were chosen to facilitate the creation of our front door by having a designated 1x1 square for the length of the door.  
 
 <img width="1902" height="727" alt="1" src="https://github.com/user-attachments/assets/b9e9d847-5622-418c-b633-7a1571568a5d" />
@@ -24,11 +25,15 @@ Create the 3 cubes and drag them to the ‘Front Wall’ object to have control 
     - x = 2.75 (wall length)
     - y = 1.5 (wall width)
     - z = 0.25 (wall thickness)
+   
+
 Wall length is 2.75 to account for wall thickness of left and right-side walls of 0.25.  Name the remaining cube ‘Top Door’ and apply the following scaling values.  
   * Scaling Values for ‘Top Door’ object:
     -	x = 1 (wall length)
     -	y = 0.35 (wall width)
     -	z = 0.25 (wall thickness)
+   
+
 After scaling all ‘Front Wall’ cube objects, provide the following position values:
   *	Position Values for ‘Right Front’ object:
     -	x = 1.325
