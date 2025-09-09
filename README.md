@@ -1,7 +1,6 @@
 Grupo 2:									Septiembre 9, 2025
-Luis Aparicio (801-21-8072)
-Alec Hillman (802-15-3423)
-
+- Luis Aparicio (801-21-8072)
+- Alec Hillman (802-15-3423)
 
 
 Steps to creating a Simple House:
