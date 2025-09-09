@@ -9,9 +9,9 @@ Steps to creating a Simple House:
 
 We want to create a simple house with a 7 x 7 = 49 area.  Start your project by creating an empty game object and rename it ‘Simple House’.  
 Position your ‘Simple House’ coordinates to the following: 
-  •	x = 0
-  •	y = 0
-  •	z = 0
+  - x = 0
+  - y = 0
+  - z = 0
 These coordinates were chosen to facilitate the creation of our front door by having a designated 1x1 square for the length of the door.  
 
 <img width="1902" height="727" alt="1" src="https://github.com/user-attachments/assets/b9e9d847-5622-418c-b633-7a1571568a5d" />
@@ -20,23 +20,23 @@ These coordinates were chosen to facilitate the creation of our front door by ha
 Next, create an empty child object and name it ‘Front Wall’.  According to challenge conditions, we can only move, rotate and scale the cube objects.  Thus, we can create 3 cubes and orient them to simulate a front wall with a door frame.  
 Create the 3 cubes and drag them to the ‘Front Wall’ object to have control of all objects simultaneously.  Name two of the cubes ‘Left Front’ and ‘Right Front’ and provide them with the same scaling values. 
   •	Scaling Values for ‘Right Front’ and ‘Left Front’ objects:
-    o	x = 2.75 (wall length)
-    o	y = 1.5 (wall width)
-    o	z = 0.25 (wall thickness)
+    - x = 2.75 (wall length)
+    - y = 1.5 (wall width)
+    - z = 0.25 (wall thickness)
 Wall length is 2.75 to account for wall thickness of left and right-side walls of 0.25.  Name the remaining cube ‘Top Door’ and apply the following scaling values.  
-  •	Scaling Values for ‘Top Door’ object:
-    o	x = 1 (wall length)
-    o	y = 0.35 (wall width)
-    o	z = 0.25 (wall thickness)
+  - Scaling Values for ‘Top Door’ object:
+    *	x = 1 (wall length)
+    *	y = 0.35 (wall width)
+    *	z = 0.25 (wall thickness)
 After scaling all ‘Front Wall’ cube objects, provide the following position values:
-  •	Position Values for ‘Right Front’ object:
-    o	x = 1.325
-    o	y = 0.75
-    o	z = -0.125
-  •	Position Values for ‘Left Front’ object:
-    o	x = -2.375
-    o	y = 0.75
-    o	z = -0.125
+  *	Position Values for ‘Right Front’ object:
+    -	x = 1.325
+    -	y = 0.75
+    -	z = -0.125
+  *	Position Values for ‘Left Front’ object:
+    -	x = -2.375
+    -	y = 0.75
+    -	z = -0.125
   •	Position Values for ‘Top Door’ object:
     o	x = -0.5
     o	y = 1.325
