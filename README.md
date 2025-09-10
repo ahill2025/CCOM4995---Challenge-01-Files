@@ -87,7 +87,7 @@ Then, create a cube object for house roof and name it ‘Right Roof Section’. 
     -	z = -3.5
 
 
-Roof depth (z) is 2 units larger than the wall length to guarantee roof covers the house.  Length is valued at 2 due to x-position = 2, to ensure roof section not “over-merge” with wall sections.  Roof height is set to 1.75 to be in contact with wall top face.  
+Roof depth (z) is 2 units larger than the wall length to guarantee roof covers the house.  Length is valued at 2 due to x-position = 2, to ensure roof section does not “over-merge” with wall sections.  Roof height is set to 1.75 to be in contact with wall top face.  
 
 After setting ‘Right Roof Section’ horizontally, create a copy of it, called ‘Left Roof Section’ and modify x position value to -3.  
 
