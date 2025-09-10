@@ -129,6 +129,8 @@ In the end, I did end up learning that child object scaling values are affected 
 
 Luis Aparicio:
 
+What caught my attention the most was the moment of designing the roof, because when I tilted the cubes at the right angles, the figure started to look like a real house. That experience helped me see how, in Unity, basic objects can be transformed into more complex and creative elements.
+
 
 
 
