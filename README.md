@@ -118,7 +118,6 @@ The last step would be to adjust y-position for each section to ensure contact w
 <img width="1913" height="725" alt="8" src="https://github.com/user-attachments/assets/54f69b43-828f-4a9f-82a7-966da4d10d49" />
 
 
-Edit 9/10/2025:
 
 
 Alec Hillman:
