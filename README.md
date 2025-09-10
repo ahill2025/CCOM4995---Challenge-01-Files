@@ -1,4 +1,4 @@
-Grupo 2:									Septiembre 9, 2025
+Grupo 2:									
 - Luis Aparicio (801-21-8072)
 - Alec Hillman (802-15-3423)
 
@@ -74,11 +74,25 @@ Copy cube object for the remaining walls (2) and only modify their position valu
 
 <img width="1919" height="739" alt="4" src="https://github.com/user-attachments/assets/e6fee412-d590-4bdc-b740-20b631bb0cab" />
 
+Roof depth (z) is 2 units larger than the wall length to guarantee roof covers the house.  Length is valued at 2 due to x-position = 2, to ensure roof section not “over-merge” with wall sections.  Roof height is set to 1.75 to be in contact with wall top face.  
+
+After setting ‘Right Roof Section’ horizontally, create a copy of it, called ‘Left Roof Section’ and modify x position value to -3.  
+
+<img width="1916" height="726" alt="5" src="https://github.com/user-attachments/assets/255615bb-92c7-4c9b-b8c6-6eec464e43d1" />
+
+
+Apply initial rotation values in Z of -13˚ (167˚) for ‘Right Roof Section’ and 13˚ for ‘Left Roof Section’.  Extend x scale value for both sections from 5 to 5.25.  As seen in the image below, the sections pass through each other with a slight extrusion of each section on the other.  This can be fixed by adjusting the angle by adding -0.1˚ and 0.1˚ to the ‘Right Roof Section’ and ‘Left Roof Section’ z angle, respectively.  
+
+<img width="1916" height="721" alt="6" src="https://github.com/user-attachments/assets/5b17c240-56a5-4afd-99e7-f0c529e56ca8" />
+
+
+<img width="1916" height="722" alt="7" src="https://github.com/user-attachments/assets/c712e5e3-df6d-47de-b4d9-b6b0107ef078" />
+
+The last step would be to adjust y-position for each section to ensure contact with house walls.  Adjust both section’s y-positions to 1.95.
 
 
 
-
-
+<img width="1913" height="725" alt="8" src="https://github.com/user-attachments/assets/54f69b43-828f-4a9f-82a7-966da4d10d49" />
 
 
 
