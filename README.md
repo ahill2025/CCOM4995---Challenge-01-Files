@@ -119,7 +119,11 @@ The last step would be to adjust y-position for each section to ensure contact w
 
 
 Edit 9/10/2025:
+
+
 Alec Hillman:
+
+
 Learning a program with assistance is not the same as sitting down and experimenting with the program yourself.  I learned how to approach designing a figure after going through some small hurdles, these coming from creating the roof sections.  
 Initially, both left and right roof top cubes were set as child objects for the left and right wall cubes, respectively.  This caused problems with scaling and positioning and eventually, the design for the roof section was changed using a simpler method.
 In the end, I did end up learning that child object scaling values are affected by their respective parent object, which was pretty cool.  Overall, a very nice introudction.  
