@@ -74,6 +74,19 @@ Copy cube object for the remaining walls (2) and only modify their position valu
 
 <img width="1919" height="739" alt="4" src="https://github.com/user-attachments/assets/e6fee412-d590-4bdc-b740-20b631bb0cab" />
 
+
+Then, create a cube object for house roof and name it ‘Right Roof Section’.  Below are scaling and initial position values for the roof section:
+
+  *	Scaling values for ‘Right Roof Section’:
+    -	x = 2 (Roof section length)
+    -	y = 1.75 (Roof section height)
+    -	z = 9 (Roof section depth)
+  *	Position values:
+    -	x = 2
+    -	y = 1.75
+    -	z = -3.5
+
+
 Roof depth (z) is 2 units larger than the wall length to guarantee roof covers the house.  Length is valued at 2 due to x-position = 2, to ensure roof section not “over-merge” with wall sections.  Roof height is set to 1.75 to be in contact with wall top face.  
 
 After setting ‘Right Roof Section’ horizontally, create a copy of it, called ‘Left Roof Section’ and modify x position value to -3.  
