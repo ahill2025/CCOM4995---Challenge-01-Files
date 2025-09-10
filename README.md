@@ -84,20 +84,21 @@ After setting ‘Right Roof Section’ horizontally, create a copy of it, called
 
 
 Apply initial rotation values in Z of -13˚ (167˚) for ‘Right Roof Section’ and 13˚ for ‘Left Roof Section’.  Extend x scale value for both sections from 5 to 5.25.  As seen in the image below, the sections pass through each other with a slight extrusion of each section on the other.  This can be fixed by adjusting the angle by adding -0.1˚ and 0.1˚ to the ‘Right Roof Section’ and ‘Left Roof Section’ z angle, respectively.  
+<br>
 
 
 <img width="1916" height="721" alt="6" src="https://github.com/user-attachments/assets/5b17c240-56a5-4afd-99e7-f0c529e56ca8" />
 
-
+<br>
 
 
 <img width="1916" height="722" alt="7" src="https://github.com/user-attachments/assets/c712e5e3-df6d-47de-b4d9-b6b0107ef078" />
 
-
+<br><br>
 
 
 The last step would be to adjust y-position for each section to ensure contact with house walls.  Adjust both section’s y-positions to 1.95.
-
+<br>
 
 
 
